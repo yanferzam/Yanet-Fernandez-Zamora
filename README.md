@@ -1,3 +1,3 @@
 # yanet-website
 
-MY first GitHub Pages Repository
+My first GitHub Pages Repository
