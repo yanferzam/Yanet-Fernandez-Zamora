@@ -1,4 +1,4 @@
-<h1> Yanet Fernandez Zamora <h1>
+<h1> Yanet Fernandez Zamora </h1>
 
 I am an undergraduate student researcher at the University of Wisconsin Oshkosh (UWO), majoring in Mathematics with a Statistics emphasis, Spanish and Computer Programming Certificates, and a concentration in Sociology. 
 
